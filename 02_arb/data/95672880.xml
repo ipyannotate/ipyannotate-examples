@@ -1,0 +1,36 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>ООО ТМК «Вентиляция Сибири»</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>АО ВТБ Лизинг</name>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>ЗАО</type>
+        <name>МАКС Моторс Экстрим</name>
+      </organisation>
+    </third>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>АО ВТБ Лизинг</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>ООО ТМК «Вентиляция Сибири»</name>
+      </organisation>
+      <organisation>
+        <type>ЗАО</type>
+        <name>МАКС Моторс Экстрим</name>
+      </organisation>
+    </defence>
+  </counterclaim>
+</claims>

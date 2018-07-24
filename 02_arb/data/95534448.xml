@@ -1,0 +1,31 @@
+<claims>
+  <claim>
+    <attack>
+      <person>
+        <name>
+          <last>Клочкова</last>
+          <first>Игоря</first>
+          <middle>Николаевича</middle>
+        </name>
+      </person>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СЕКТОР</name>
+        <attributes>
+          <inn>6164012704</inn>
+          <ogrn>1026103292401</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="обязании предоставить документы"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <subjects>
+      <subject type="исключении"/>
+    </subjects>
+  </counterclaim>
+</claims>

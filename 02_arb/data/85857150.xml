@@ -1,0 +1,62 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>АМИД</name>
+        <attributes>
+          <inn>9102164050</inn>
+          <ogrn>1159102039689</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Симферополь</name>
+            </settlement>
+            <region>
+              <type>республика</type>
+              <name>Крым</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>Администрации города Симферополя Республики Крым</name>
+        <attributes>
+          <inn>9102048470</inn>
+          <ogrn>1149102098749</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Симферополь</name>
+            </settlement>
+            <region>
+              <type>республика</type>
+              <name>Крым</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="признании договора"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>Администрации города Симферополя Республики Крым</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>АМИД</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность"/>
+    </subjects>
+  </counterclaim>
+</claims>

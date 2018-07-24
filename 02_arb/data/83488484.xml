@@ -1,0 +1,33 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>Теплая стена</name>
+        <attributes>
+          <inn>0268059424</inn>
+          <ogrn>1120268000445</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Компания</type>
+        <name>(ИНН: 0268053888, ОГРН: 1100268000953) о взыскании долга в размере 3 584 286,41 руб., процентов в размере 835 490,39 руб. Определением суда от 23 декабря 2015 года встречное исковое заявление ООО</name>
+      </organisation>
+      <organisation>
+        <type>Компания</type>
+        <name>(ИНН: 0268053888, ОГРН: 1100268000953) к ООО</name>
+        <attributes>
+          <inn>0268059424</inn>
+          <ogrn>1120268000445</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неосновательное обогащение">
+        <money currency="RUB">534332.02</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

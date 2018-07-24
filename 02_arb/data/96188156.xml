@@ -1,0 +1,58 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Челябэнергосбыт</name>
+        <attributes>
+          <ogrn>1057423505732</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Челябинск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СК эксплуатация</name>
+        <attributes>
+          <ogrn>1077453019049</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Челябинск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">429783.04</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СК эксплуатация</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Челябэнергосбыт</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">429783.04</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

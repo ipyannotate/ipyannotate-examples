@@ -1,0 +1,84 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Муниципальное унитарное предприятие</type>
+        <name>Канский Электросетьсбыт</name>
+        <attributes>
+          <inn>2450017488</inn>
+          <ogrn>1022401364094</ogrn>
+          <location>
+            <region>
+              <type>край</type>
+              <name>Красноярский</name>
+            </region>
+            <settlement>
+              <type>город</type>
+              <name>Канск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>Канская ТЭЦ</name>
+        <attributes>
+          <inn>2460237891</inn>
+          <ogrn>1122468025680</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Красноярск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неустойка"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>Канская ТЭЦ</name>
+        <attributes>
+          <inn>2460237891</inn>
+          <ogrn>1122468025680</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Красноярск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Муниципальное унитарное предприятие</type>
+        <name>Канский Электросетьсбыт</name>
+        <attributes>
+          <inn>2450017488</inn>
+          <ogrn>1022401364094</ogrn>
+          <location>
+            <region>
+              <type>край</type>
+              <name>Красноярский</name>
+            </region>
+            <settlement>
+              <type>город</type>
+              <name>Канск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неустойка"/>
+    </subjects>
+  </counterclaim>
+</claims>

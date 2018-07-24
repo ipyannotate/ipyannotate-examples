@@ -1,0 +1,34 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ОАО</type>
+        <name>Казанский завод компрессорного машиностроения</name>
+        <attributes>
+          <inn>1660004878</inn>
+          <ogrn>1021603620114</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>ГидромашАвтоматика</name>
+        <attributes>
+          <inn>0276141055</inn>
+          <ogrn>1120280027262</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <name>ООО «Башнефть-добыча» ПАО АНК «Башнефть»</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">16414535.16</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

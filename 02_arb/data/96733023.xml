@@ -1,0 +1,43 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Центральный научно-испытательный полигон строительных и дорожных машин</name>
+        <attributes>
+          <inn>5016000132</inn>
+          <ogrn>1025001766338</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ивантеевка</name>
+            </settlement>
+            <region>
+              <type>область</type>
+              <name>Московская</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Крона</name>
+        <attributes>
+          <inn>3664132666</inn>
+          <ogrn>1143668010310</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Воронеж</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="истребовании из чужого незаконного владения"/>
+    </subjects>
+  </claim>
+</claims>

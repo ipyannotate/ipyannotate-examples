@@ -1,0 +1,29 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>ЭСКБ</name>
+        <attributes>
+          <inn>0275038496</inn>
+          <ogrn>1020202770642</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ТСЖ</type>
+        <name>ИХЛАС</name>
+        <attributes>
+          <inn>0274143770</inn>
+          <ogrn>1090280040575</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">93555.3</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

@@ -1,0 +1,84 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Межрегиональная распределительная сетевая компания Сибири</name>
+        <attributes>
+          <inn>2460069527</inn>
+          <ogrn>1052460054327</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Красноярск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Барнаульская сетевая компания</name>
+        <attributes>
+          <inn>2221070063</inn>
+          <ogrn>1052201916975</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Барнаул</name>
+            </settlement>
+            <region>
+              <type>край</type>
+              <name>Алтайского</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">1963988.46</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Барнаульская сетевая компания</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Барнаул</name>
+            </settlement>
+            <region>
+              <type>край</type>
+              <name>Алтайского</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Межрегиональная распределительная сетевая компания Сибири</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Красноярск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">499307.16</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

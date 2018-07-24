@@ -1,0 +1,74 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью Строительная компания</type>
+        <name>Гранд</name>
+        <attributes>
+          <inn>6659190080</inn>
+          <ogrn>1096659004420</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Екатеринбург</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>Открытому акционерному обществу «Межрегиональная распределительная сетевая компания Урала», в лице филиала «Челябэнерго»</name>
+        <attributes>
+          <inn>6671163413</inn>
+          <ogrn>1056604000970</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Челябинск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неустойка"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>Открытого акционерного общества «Межрегиональная распределительная сетевая компания Урала», в лице филиала «Челябэнерго»</name>
+        <attributes>
+          <inn>6671163413</inn>
+          <ogrn>1056604000970</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Челябинск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью Строительная компания</type>
+        <name>Гранд</name>
+        <attributes>
+          <inn>6659190080</inn>
+          <ogrn>1096659004420</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Екатеринбург</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неустойка"/>
+    </subjects>
+  </counterclaim>
+</claims>

@@ -1,0 +1,36 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Муниципальное образование</type>
+        <name>Город Томск</name>
+        <attributes>
+          <inn>7017002351</inn>
+          <ogrn>1027000856211</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Томска</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Здвижкову</last>
+          <first>Александру</first>
+          <middle>Владимировичу</middle>
+        </name>
+        <attributes>
+          <inn>702102129052</inn>
+          <ogrn>312701736200092</ogrn>
+        </attributes>
+      </ip>
+    </defence>
+    <subjects>
+      <subject type="понуждении"/>
+    </subjects>
+  </claim>
+</claims>

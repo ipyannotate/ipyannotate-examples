@@ -1,0 +1,46 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Фирма Варяг</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Кареллесинвестлизинг</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">2393920.66</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Кареллесинвестлизинг</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Фирма Варяг</name>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Техностройком</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">1778042</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

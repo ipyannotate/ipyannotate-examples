@@ -1,0 +1,75 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>администрации города Дивногорска</name>
+        <attributes>
+          <inn>2446002640</inn>
+          <ogrn>1022401254721</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Красноярск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ПАРИТЕТ</name>
+        <attributes>
+          <inn>2446005112</inn>
+          <ogrn>1022401254193</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Дивногорск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность"/>
+      <subject type="расторжении договоров"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ПАРИТЕТ</name>
+        <attributes>
+          <inn>2446005112</inn>
+          <ogrn>1022401254193</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Дивногорск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>администрации города Дивногорска</name>
+        <attributes>
+          <inn>2446002640</inn>
+          <ogrn>1022401254721</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Красноярск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="убытки"/>
+    </subjects>
+  </counterclaim>
+</claims>

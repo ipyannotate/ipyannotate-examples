@@ -1,0 +1,27 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>Большое Домодедово</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>СтройПерспектива</name>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>ООО</type>
+        <name>Газпром межрегионгаз Москва</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">3065312.47</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

@@ -1,0 +1,51 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Современные технологии строительства</name>
+        <attributes>
+          <ogrn>1047833006704</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Группа Компаний «Транс-Строй Альянс</name>
+        <attributes>
+          <inn>7806504415</inn>
+          <ogrn>1137847232258</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Санкт-Петербург</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Балтийская жемчужина</name>
+        <attributes>
+          <inn>7801377058</inn>
+          <ogrn>1057810143918</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Санкт-Петербург</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty type="неосновательное обогащение">
+        <money currency="RUB">18353242.09</money>
+      </penalty>
+      <penalty type="задолженность"/>
+    </subjects>
+  </claim>
+</claims>

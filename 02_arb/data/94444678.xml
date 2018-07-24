@@ -1,0 +1,40 @@
+<claims>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Технологическое оборудование и системы</name>
+        <attributes>
+          <inn>5249090643</inn>
+          <ogrn>1075249008450</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Дзержинск</name>
+            </settlement>
+            <region>
+              <type>область</type>
+              <name>Нижегородской</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ЦентрТехСнаб</name>
+        <attributes>
+          <inn>7718842221</inn>
+          <ogrn>1117746246254</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+  </counterclaim>
+</claims>

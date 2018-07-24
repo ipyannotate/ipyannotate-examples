@@ -1,0 +1,64 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Территориальная генерирующая компания №14</name>
+        <attributes>
+          <inn>7534018889</inn>
+          <ogrn>1047550031242</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>АСМ-РЕСУРС</name>
+        <attributes>
+          <inn>7452018415</inn>
+          <ogrn>1027403886762</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Челябинский тракторный завод-УРАЛТРАК</name>
+        <attributes>
+          <inn>7452027843</inn>
+          <ogrn>1027403766830</ogrn>
+        </attributes>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">4670000</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>АСМ-РЕСУРС</name>
+        <attributes>
+          <inn>7452018415</inn>
+          <ogrn>1027403886762</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Территориальная генерирующая компания №14</name>
+        <attributes>
+          <inn>7534018889</inn>
+          <ogrn>1047550031242</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="признании недействительной сделки"/>
+    </subjects>
+  </counterclaim>
+</claims>

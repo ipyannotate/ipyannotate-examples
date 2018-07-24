@@ -1,0 +1,38 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>акционерное общество)</name>
+        <attributes>
+          <inn>7744001497</inn>
+          <ogrn>1027700167110</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Территориальная генерирующая компания № 2</name>
+        <attributes>
+          <inn>7606053324</inn>
+          <ogrn>1057601091151</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">868026279.8</money>
+      </penalty>
+      <subject type="обращении"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <subjects>
+      <subject type="признании недействительным уведомления"/>
+      <subject type="истребовании"/>
+      <penalty type="неосновательное обогащение">
+        <money currency="RUB">163868809.58</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

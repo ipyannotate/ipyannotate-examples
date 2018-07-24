@@ -1,0 +1,29 @@
+<claims>
+  <claim>
+    <attack>
+      <unparsed>
+        <attributes>
+          <ogrn>102050000553</ogrn>
+        </attributes>
+      </unparsed>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Рамазанову</last>
+          <first>Мураду</first>
+          <middle>Алиевичу</middle>
+        </name>
+        <attributes>
+          <inn>056104458817</inn>
+          <ogrn>309056104900021</ogrn>
+        </attributes>
+      </ip>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">35406474.08</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

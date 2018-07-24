@@ -1,0 +1,74 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Волгоремконструктмонтаж</name>
+        <attributes>
+          <inn>3459063184</inn>
+          <ogrn>1153443016121</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Волгоград</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Янтарь</name>
+        <attributes>
+          <inn>3460065235</inn>
+          <ogrn>1163443074046</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Волгоград</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="обязании совершить действия"/>
+      <subject type="расторжении договора"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Янтарь</name>
+        <attributes>
+          <inn>3460065235</inn>
+          <ogrn>1163443074046</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Волгоград</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Волгоремконструктмонтаж</name>
+        <attributes>
+          <inn>3459063184</inn>
+          <ogrn>1153443016121</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Волгоград</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+  </counterclaim>
+</claims>

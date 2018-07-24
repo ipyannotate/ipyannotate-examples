@@ -1,0 +1,60 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Проектно-изыскательский институт «БрянскГражданПроект</name>
+        <attributes>
+          <inn>3250074360</inn>
+          <ogrn>1073250003166</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>муниципальному казенному учреждению «Строитель»</name>
+        <attributes>
+          <inn>6732001469</inn>
+          <ogrn>1106732001420</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <name>Администрация города Смоленска</name>
+        <attributes>
+          <inn>6730012070</inn>
+          <ogrn>1026701449719</ogrn>
+        </attributes>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty type="задолженность"/>
+      <penalty type="пени"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>муниципального казенного учреждения «Строитель»</name>
+        <attributes>
+          <inn>6732001469</inn>
+          <ogrn>1106732001420</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Проектно-изыскательский институт «БрянскГражданПроект</name>
+        <attributes>
+          <inn>3250074360</inn>
+          <ogrn>1073250003166</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="пени"/>
+    </subjects>
+  </counterclaim>
+</claims>

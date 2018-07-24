@@ -1,0 +1,41 @@
+<claims>
+  <claim>
+    <attack>
+      <ip>
+        <name>
+          <last>Мельниченко</last>
+          <first>Бориса</first>
+          <middle>Александровича</middle>
+        </name>
+        <attributes>
+          <inn>262404898154</inn>
+          <ogrn>314265102900312</ogrn>
+        </attributes>
+      </ip>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Публичное акционерное общество Национальный банк</type>
+        <name>ТРАСТ</name>
+        <attributes>
+          <inn>7831001567</inn>
+          <ogrn>1027800000480</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="проценты">
+        <money currency="RUB">1495</money>
+      </penalty>
+      <penalty>
+        <money currency="RUB">11000</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

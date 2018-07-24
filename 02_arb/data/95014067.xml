@@ -1,0 +1,62 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ПИРС</name>
+        <attributes>
+          <ogrn>1057810455295</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Санкт-Петербург</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Межрегиональная распределительная сетевая компания Северного Кавказа</name>
+        <attributes>
+          <ogrn>1062632029778</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Пятигорск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность">
+        <money currency="RUB">67087.8</money>
+      </penalty>
+      <penalty type="проценты">
+        <money currency="RUB">2404.13</money>
+      </penalty>
+      <penalty type="задолженность"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Межрегиональная распределительная сетевая компания Северного Кавказа</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ПИРС</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неустойка">
+        <money currency="RUB">3644</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

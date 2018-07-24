@@ -1,0 +1,26 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>Государственного учреждение Управление Пенсионного фонда РФ в Каргасокском районе Томской области</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Муниципальное унитарное предприятие</type>
+        <name>Хозрасчетное проектно-производственное архитектурно-планировочное бюро муниципального образования Каргасокский район</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="пени"/>
+      <penalty type="штраф">
+        <money currency="RUB">87543.1</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <subjects>
+      <subject type="признании незаконным решения"/>
+    </subjects>
+  </counterclaim>
+</claims>

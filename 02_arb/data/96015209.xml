@@ -1,0 +1,29 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>ГАЗПРОМ МЕЖРЕГИОНГАЗ УФА</name>
+        <attributes>
+          <inn>0276046524</inn>
+          <ogrn>1020202854979</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>СЕЛЬЭНЕРГО</name>
+        <attributes>
+          <inn>0221005374</inn>
+          <ogrn>1090255000879</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">799630.82</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

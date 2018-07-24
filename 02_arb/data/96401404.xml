@@ -1,0 +1,41 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>БЕКО</name>
+        <attributes>
+          <inn>7804157910</inn>
+          <ogrn>1027802512671</ogrn>
+          <location>
+            <region>
+              <type>область</type>
+              <name>Владимирская</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Бизнес-система</name>
+        <attributes>
+          <inn>3329038042</inn>
+          <ogrn>1063340016673</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Владимир</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">440000</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

@@ -1,0 +1,86 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ПРАЙД</name>
+        <attributes>
+          <inn>4205137846</inn>
+          <ogrn>1074205018250</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Кемерово</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ЭКСПО-ЛИЗИНГ</name>
+        <attributes>
+          <inn>7703363177</inn>
+          <ogrn>1027703024733</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность">
+        <money currency="RUB">207119.82</money>
+      </penalty>
+      <penalty type="проценты">
+        <money currency="RUB">15710.9</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ЭКСПО-ЛИЗИНГ</name>
+        <attributes>
+          <inn>7703363177</inn>
+          <ogrn>1027703024733</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ПРАЙД</name>
+        <attributes>
+          <inn>4205137846</inn>
+          <ogrn>1074205018250</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Кемерово</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="проценты">
+        <money currency="RUB">1029632</money>
+      </penalty>
+      <penalty>
+        <money currency="RUB">174372.47</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

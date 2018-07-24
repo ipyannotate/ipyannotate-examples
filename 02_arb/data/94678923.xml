@@ -1,0 +1,29 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ИнвестПроект</name>
+        <attributes>
+          <inn>4501202460</inn>
+          <ogrn>1154501004558</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Строительно-монтажное управление «РТС</name>
+        <attributes>
+          <inn>4501183610</inn>
+          <ogrn>1134501001580</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">240000</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

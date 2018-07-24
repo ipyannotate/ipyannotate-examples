@@ -1,0 +1,27 @@
+<claims>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Азбука права</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Рико</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="признании права собственности"/>
+    </subjects>
+  </counterclaim>
+</claims>

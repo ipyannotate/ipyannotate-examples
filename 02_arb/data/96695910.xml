@@ -1,0 +1,27 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>Прибалтийский судостроительный завод «Янтарь</name>
+        <attributes>
+          <inn>3900000111</inn>
+          <ogrn>1023901861213</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>САБА МАШИНИНГ СОЛЮШЕНС</name>
+        <attributes>
+          <inn>7707828916</inn>
+          <ogrn>1147746295070</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неустойка"/>
+    </subjects>
+  </claim>
+</claims>

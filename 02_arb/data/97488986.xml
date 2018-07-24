@@ -1,0 +1,43 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Форест</name>
+        <attributes>
+          <inn>4430004371</inn>
+          <ogrn>1114436000337</ogrn>
+          <location>
+            <settlement>
+              <type>село</type>
+              <name>Одоевское Шарьинского</name>
+            </settlement>
+            <region>
+              <type>область</type>
+              <name>Костромской</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>департаменту лесного хозяйства Костромской области</name>
+        <attributes>
+          <inn>4401071292</inn>
+          <ogrn>1074401000112</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Кострома</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="внесении"/>
+      <subject type="изменений договор"/>
+    </subjects>
+  </claim>
+</claims>

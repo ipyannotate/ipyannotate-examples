@@ -1,0 +1,61 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Дарханстрой</name>
+        <attributes>
+          <inn>0323107449</inn>
+          <ogrn>1020300911840</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Торговый дом «Регион 45</name>
+        <attributes>
+          <inn>4501202118</inn>
+          <ogrn>1154501003975</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">214224.33</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Торговый дом «Регион 45</name>
+        <attributes>
+          <inn>4501202118</inn>
+          <ogrn>1154501003975</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Дарханстрой</name>
+        <attributes>
+          <inn>0323107449</inn>
+          <ogrn>1020300911840</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <name>Общество с ограниченной ответственностью Завод дорожной техники</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty type="убытки">
+        <money currency="RUB">230000</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

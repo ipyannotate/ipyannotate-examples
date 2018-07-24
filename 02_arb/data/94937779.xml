@@ -1,0 +1,52 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Монолит</name>
+        <attributes>
+          <inn>4101169071</inn>
+          <ogrn>1154101001306</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>краевому государственному казенному учреждению «Единая дирекция по строительству»</name>
+        <attributes>
+          <inn>4101172035</inn>
+          <ogrn>1154101004067</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="долг"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>краевого государственного казенного учреждения «Единая дирекция по строительству»</name>
+        <attributes>
+          <inn>4101172035</inn>
+          <ogrn>1154101004067</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Монолит</name>
+        <attributes>
+          <inn>4101169071</inn>
+          <ogrn>1154101001306</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неосновательное обогащение">
+        <money currency="RUB">10068452</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

@@ -1,0 +1,48 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>муниципального унитарного предприятия Великого Новгорода «Теплоэнерго»</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Управляющая компания «Легион</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">546869.17</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Управляющая компания «Легион</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>муниципальному унитарному предприятию Великого Новгорода «Теплоэнерго»</name>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Торговый дом «Нефтегазстрой</name>
+      </organisation>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>РИТМ-2000</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">189085.44</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

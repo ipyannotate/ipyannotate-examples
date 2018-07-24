@@ -1,0 +1,29 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>СГ-транс</name>
+        <attributes>
+          <inn>7740000100</inn>
+          <ogrn>1047740000021</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Уфаоргсинтез</name>
+        <attributes>
+          <inn>0277014204</inn>
+          <ogrn>1020203087145</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">81600</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

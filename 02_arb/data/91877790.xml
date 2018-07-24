@@ -1,0 +1,41 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>УО «Виктория-Н</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Саратов</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>Товариществу собственников недвижимости «Академик»</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Саратов</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <name>АО «Саратовгаз» г.Саратов, Комитет по ЖКХ Администрации г.Саратова</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty type="задолженность">
+        <money currency="RUB">73489.19</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

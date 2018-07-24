@@ -1,0 +1,80 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>С-МОТОРС</name>
+        <attributes>
+          <ogrn>1107447003840</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Челябинск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>обществу с ограниченной ответственностью строительно-монтажное эксплуатационное предприятие «Челябинсктранссигнал»</name>
+        <attributes>
+          <ogrn>1057424000974</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Челябинск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">393931.87</money>
+      </penalty>
+      <penalty>
+        <money currency="RUB">70000</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>общества с ограниченной ответственностью строительно-монтажное эксплуатационное предприятие «Челябинсктранссигнал»</name>
+        <attributes>
+          <ogrn>1057424000974</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Челябинск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>С-МОТОРС</name>
+        <attributes>
+          <ogrn>1107447003840</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Челябинск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="убытки">
+        <money currency="RUB">260321</money>
+      </penalty>
+      <penalty>
+        <money currency="RUB">1200</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

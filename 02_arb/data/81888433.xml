@@ -1,0 +1,45 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Медвежье Озеро</name>
+        <attributes>
+          <inn>5050106474</inn>
+          <ogrn>1135050005287</ogrn>
+          <location>
+            <region>
+              <type>область</type>
+              <name>Московская</name>
+            </region>
+            <settlement>
+              <type>деревня</type>
+              <name>Медвежьи Озера</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Волгоградская сырьевая компания</name>
+        <attributes>
+          <inn>3444186553</inn>
+          <ogrn>1113444020612</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Волгоград</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="судебных расходов">
+        <money currency="RUB">2908846.47</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

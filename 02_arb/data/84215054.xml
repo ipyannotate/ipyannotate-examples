@@ -1,0 +1,64 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>ФЕДЕРАЛЬНОГО АГЕНТСТВА ВОЗДУШНОГО ТРАНСПОРТА</name>
+        <attributes>
+          <inn>7714549744</inn>
+          <ogrn>1047796301002</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СТРОИТЕЛЬНАЯ КОМПАНИЯ АЭРОДОР</name>
+        <attributes>
+          <inn>7727732546</inn>
+          <ogrn>1107746908906</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Федеральное государственное унитарное предприятие</type>
+        <name>АДМИНИСТРАЦИЯ ГРАЖДАНСКИХ АЭРОПОРТОВ (АЭРОДРОМОВ)</name>
+        <attributes>
+          <inn>7714276906</inn>
+          <ogrn>1027714007089</ogrn>
+        </attributes>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty type="штраф">
+        <money currency="RUB">2817382.2</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СТРОИТЕЛЬНАЯ КОМПАНИЯ АЭРОДОР</name>
+        <attributes>
+          <inn>7727732546</inn>
+          <ogrn>1107746908906</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>ФЕДЕРАЛЬНОМУ АГЕНТСТВУ ВОЗДУШНОГО ТРАНСПОРТА</name>
+        <attributes>
+          <inn>7714549744</inn>
+          <ogrn>1047796301002</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="штраф">
+        <money currency="RUB">2817337.2</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

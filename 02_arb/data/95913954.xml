@@ -1,0 +1,47 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ФРЕГАТ ГРУПП</name>
+        <attributes>
+          <ogrn>1167847067266</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>САНКТ-ПЕТЕРБУРГ</name>
+            </settlement>
+            <settlement>
+              <type>город</type>
+              <name>САНКТ-ПЕТЕРБУРГ</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ТЭК-ИНЖИНИРИНГ</name>
+        <attributes>
+          <ogrn>1079847045970</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>САНКТ-ПЕТЕРБУРГ</name>
+            </settlement>
+            <settlement>
+              <type>город</type>
+              <name>САНКТ-ПЕТЕРБУРГ</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">567500</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

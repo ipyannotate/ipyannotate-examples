@@ -1,0 +1,44 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>Открытого акционерного общества «Энергосбыт Плюс» в лице Удмуртского филиала</name>
+        <attributes>
+          <inn>5612042824</inn>
+          <ogrn>1055612021981</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ижевск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью Управляющая компания</type>
+        <name>Ижкомцентр</name>
+        <attributes>
+          <inn>1841022974</inn>
+          <ogrn>1111841013811</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Чайковский</name>
+            </settlement>
+            <region>
+              <type>край</type>
+              <name>Пермский</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="долг">
+        <money currency="RUB">8492265.48</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

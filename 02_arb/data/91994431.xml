@@ -1,0 +1,62 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СтройПрестиж</name>
+        <attributes>
+          <inn>5933005599</inn>
+          <ogrn>1075933000087</ogrn>
+          <location>
+            <settlement>
+              <type>село</type>
+              <name>Карагай</name>
+            </settlement>
+            <region>
+              <type>край</type>
+              <name>Пермский</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Стройинвест</name>
+        <attributes>
+          <inn>5256078943</inn>
+          <ogrn>1085256003590</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Нижний Новгород</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">742887.62</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Стройинвест</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СтройПрестиж</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неосновательное обогащение"/>
+    </subjects>
+  </counterclaim>
+</claims>

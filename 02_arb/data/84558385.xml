@@ -1,0 +1,40 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ВИКОНА ПЛЮС</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Струйные технологии и строительство</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность">
+        <money currency="RUB">1477130.24</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Струйные технологии и строительство</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ВИКОНА ПЛЮС</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="убытки">
+        <money currency="RUB">3234109.24</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

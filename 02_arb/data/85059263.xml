@@ -1,0 +1,70 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Строительная компания Амур</name>
+        <attributes>
+          <inn>2722119217</inn>
+          <ogrn>1132722001213</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Хабаровск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>отделу образования администрации Смидовичского муниципального района Еврейской автономной области</name>
+        <attributes>
+          <inn>7903002322</inn>
+          <ogrn>1027900633530</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="признании решения"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>отдела образования администрации Смидовичского муниципального района Еврейской автономной области</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Строительная компания Амур</name>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Компания</type>
+        <name>, при участии: от истца - Скорицкой А.А., представителя по доверенности от 27.05.2016; от ответчика - Бондаревой Э.В., представителя по доверенности от 23.09.2016; третьих лиц: от ООО</name>
+      </organisation>
+      <person>
+        <name>
+          <last>Сагло</last>
+          <first>С</first>
+          <middle>В</middle>
+        </name>
+      </person>
+      <person>
+        <name>
+          <last>Хромовой</last>
+          <first>Т</first>
+          <middle>А</middle>
+        </name>
+      </person>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">5100666.36</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

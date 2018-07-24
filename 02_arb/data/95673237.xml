@@ -1,0 +1,36 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>СПЕЦСВЯЗЬМОНТАЖ</name>
+        <attributes>
+          <inn>7726303488</inn>
+          <ogrn>1157746211237</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>НЕФТЕГАЗОВЫЕ ИННОВАЦИИ</name>
+        <attributes>
+          <inn>7728748450</inn>
+          <ogrn>1107746746106</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+  </claim>
+</claims>

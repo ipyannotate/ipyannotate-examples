@@ -1,0 +1,88 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>МЭП Монтаж</name>
+        <attributes>
+          <inn>5018149138</inn>
+          <ogrn>1115018013714</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Королев</name>
+            </settlement>
+            <region>
+              <type>область</type>
+              <name>Московской</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>Электрозавод</name>
+        <attributes>
+          <inn>6952037333</inn>
+          <ogrn>1136952008104</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Тверь</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">657544</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>Электрозавод</name>
+        <attributes>
+          <inn>6952037333</inn>
+          <ogrn>1136952008104</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Тверь</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>МЭП Монтаж</name>
+        <attributes>
+          <inn>5018149138</inn>
+          <ogrn>1115018013714</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Королев</name>
+            </settlement>
+            <region>
+              <type>область</type>
+              <name>Московской</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">677000</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

@@ -1,0 +1,47 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Наратай энерджи</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Новосибирск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>Ремонтэнергомонтаж и сервис</name>
+        <attributes>
+          <location>
+            <region>
+              <type>область</type>
+              <name>Новосибирская</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность">
+        <money currency="RUB">187148</money>
+      </penalty>
+      <penalty type="неустойка">
+        <money currency="RUB">2844.65</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <subjects>
+      <penalty type="неустойка">
+        <money currency="RUB">17217.61</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

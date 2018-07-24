@@ -1,0 +1,56 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Фраде</name>
+        <attributes>
+          <inn>1658176037</inn>
+          <ogrn>1151690008040</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Алего.ру</name>
+        <attributes>
+          <inn>7727062845</inn>
+          <ogrn>1157746197883</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">787743.95</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Алего.ру</name>
+        <attributes>
+          <inn>7727062845</inn>
+          <ogrn>1157746197883</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Фраде</name>
+        <attributes>
+          <inn>1658176037</inn>
+          <ogrn>1151690008040</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">330320.37</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

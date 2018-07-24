@@ -1,0 +1,62 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Фундаментальный капитал</name>
+        <attributes>
+          <inn>5258101958</inn>
+          <ogrn>1125258001989</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>государственному бюджетному учреждению здравоохранения Нижегородской области «Детская городская клиническая больница №</name>
+        <attributes>
+          <inn>5261022992</inn>
+          <ogrn>1025203574770</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Нижнего Новгорода</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="расторжении государственного контракта"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>государственного бюджетного учреждения здравоохранения Нижегородской области «Детская городская клиническая больница №</name>
+        <attributes>
+          <inn>5261022992</inn>
+          <ogrn>1025203574770</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Нижнего Новгорода</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Фундаментальный капитал</name>
+        <attributes>
+          <inn>5258101958</inn>
+          <ogrn>1125258001989</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="расторжении государственного контракта"/>
+    </subjects>
+  </counterclaim>
+</claims>

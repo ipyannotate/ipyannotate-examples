@@ -1,0 +1,74 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>Администрации муниципального образования &quot;Город Ижевск&quot;</name>
+        <attributes>
+          <inn>1826001137</inn>
+          <ogrn>1031800554400</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ижевск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Квартал</name>
+        <attributes>
+          <inn>1835084933</inn>
+          <ogrn>1081841002627</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ижевск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="расторжении"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Квартал</name>
+        <attributes>
+          <inn>1835084933</inn>
+          <ogrn>1081841002627</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ижевск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>Администрации муниципального образования &quot;Город Ижевск&quot;</name>
+        <attributes>
+          <inn>1826001137</inn>
+          <ogrn>1031800554400</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ижевск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="расторжении"/>
+    </subjects>
+  </counterclaim>
+</claims>

@@ -1,0 +1,48 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>общества с ограниченной ответственностью научнотехнического центра «Барс»</name>
+        <attributes>
+          <inn>5905036605</inn>
+          <ogrn>1155958113222</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Такт</name>
+        <attributes>
+          <inn>5905013774</inn>
+          <ogrn>1025901215966</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность"/>
+      <penalty type="неустойка"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Такт</name>
+        <attributes>
+          <inn>5905013774</inn>
+          <ogrn>1025901215966</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>обществу ограниченной ответственностью научно-технического центра «Барс»</name>
+        <attributes>
+          <inn>5905036605</inn>
+          <ogrn>1155958113222</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+  </counterclaim>
+</claims>

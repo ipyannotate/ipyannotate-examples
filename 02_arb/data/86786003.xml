@@ -1,0 +1,53 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Современный Коммерческий Инновационный Банк</name>
+        <attributes>
+          <inn>4003011294</inn>
+          <ogrn>1024000002806</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ГРАНД СЕРВИС ДВ</name>
+        <attributes>
+          <inn>2720048793</inn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">72300.2</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ГРАНД СЕРВИС ДВ</name>
+        <attributes>
+          <inn>2720048793</inn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Современный Коммерческий Инновационный Банк</name>
+        <attributes>
+          <inn>4003011294</inn>
+          <ogrn>1024000002806</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="признании недействительным Договора"/>
+      <subject type="применении последствий недействительности сделки"/>
+    </subjects>
+  </counterclaim>
+</claims>

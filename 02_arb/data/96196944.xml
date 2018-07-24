@@ -1,0 +1,42 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Полюс</name>
+        <attributes>
+          <ogrn>5107746006066</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>МОСКВА</name>
+            </settlement>
+            <settlement>
+              <type>город</type>
+              <name>МОСКВА</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Сфера</name>
+        <attributes>
+          <ogrn>1137847385708</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>САНКТ-ПЕТЕРБУРГ</name>
+            </settlement>
+            <settlement>
+              <type>город</type>
+              <name>САНКТ-ПЕТЕРБУРГ</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+  </claim>
+</claims>

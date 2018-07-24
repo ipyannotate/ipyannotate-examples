@@ -1,0 +1,48 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Компания Альянс-Центр</name>
+        <attributes>
+          <inn>6685051526</inn>
+          <ogrn>1146685005785</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Фокус - Ритейл</name>
+        <attributes>
+          <inn>6670382797</inn>
+          <ogrn>1126670021477</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">21650920.19</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Фокус Ритейл</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Компания Альянс-Центр</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">18458283.36</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

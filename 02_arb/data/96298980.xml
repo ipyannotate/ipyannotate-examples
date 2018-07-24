@@ -1,0 +1,59 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Ростовоблгражданреконструкция-1</name>
+        <attributes>
+          <inn>6168049021</inn>
+          <ogrn>1026104356321</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Эксон Ойл</name>
+        <attributes>
+          <inn>6168049021</inn>
+          <ogrn>1026104356321</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>ООО</type>
+        <name>Управляющая компания «Свой Дом</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty type="задолженность"/>
+      <penalty type="пени"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Эксон Ойл</name>
+        <attributes>
+          <inn>6168049021</inn>
+          <ogrn>1026104356321</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Ростовоблгражданреконструкция-1</name>
+        <attributes>
+          <inn>6168049021</inn>
+          <ogrn>1026104356321</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="признании недействительным протокола"/>
+    </subjects>
+  </counterclaim>
+</claims>

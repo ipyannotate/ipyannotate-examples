@@ -1,0 +1,39 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>ПГК</name>
+        <attributes>
+          <ogrn>1137746982856</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ОАО</type>
+        <name>РЖД</name>
+        <attributes>
+          <ogrn>1037739877295</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">6041.5</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

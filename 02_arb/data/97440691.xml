@@ -1,0 +1,75 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>Государственного казенного учреждения города Москвы «Управление капитального строительства»</name>
+        <attributes>
+          <ogrn>1087746247467</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Новая строительная компания</name>
+        <attributes>
+          <ogrn>1027700465561</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="расторжении государственного контракта"/>
+      <penalty>
+        <money currency="RUB">520681.46</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Новая строительная компания</name>
+        <attributes>
+          <ogrn>1027700465561</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>Государственному казенному учреждению города Москвы «Управление капитального строительства»</name>
+        <attributes>
+          <ogrn>1087746247467</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">205878.35</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

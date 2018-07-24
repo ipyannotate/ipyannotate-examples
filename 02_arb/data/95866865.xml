@@ -1,0 +1,58 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>администрации города Чебоксары Чувашской Республики</name>
+        <attributes>
+          <inn>2126003194</inn>
+          <ogrn>1022101150037</ogrn>
+          <location>
+            <region>
+              <type>республика</type>
+              <name>Чувашская</name>
+            </region>
+            <settlement>
+              <type>город</type>
+              <name>Чебоксары</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Леонтьеву</last>
+          <first>Владимиру</first>
+          <middle>Геннадьевичу</middle>
+        </name>
+        <attributes>
+          <inn>212906953495</inn>
+          <ogrn>310213029200069</ogrn>
+        </attributes>
+      </ip>
+    </defence>
+    <subjects>
+      <subject type="освобождении отказа"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <ip>
+        <name>
+          <last>Леонтьева</last>
+          <first>Владимира</first>
+          <middle>Геннадьевича</middle>
+        </name>
+      </ip>
+    </attack>
+    <defence>
+      <organisation>
+        <name>администрации города Чебоксары Чувашской Республики</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="признании недействительной сделкой"/>
+    </subjects>
+  </counterclaim>
+</claims>

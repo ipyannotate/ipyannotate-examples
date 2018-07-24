@@ -1,0 +1,21 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Челябинский опытно- экспериментальный завод</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ГалоПолимер Кирово- Чепецк</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">310500</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

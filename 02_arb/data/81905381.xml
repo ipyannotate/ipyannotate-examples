@@ -1,0 +1,47 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Финансовопромышленная корпорация Сатори</name>
+        <attributes>
+          <inn>7726053171</inn>
+          <ogrn>1037739117261</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Дорук строй</name>
+        <attributes>
+          <inn>7722781980</inn>
+          <ogrn>1127746569840</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неосновательное обогащение">
+        <money currency="RUB">800000</money>
+      </penalty>
+      <penalty type="проценты">
+        <money currency="RUB">25877.78</money>
+      </penalty>
+      <penalty type="проценты">
+        <money currency="RUB">7883.33</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

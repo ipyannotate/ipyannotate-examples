@@ -1,0 +1,23 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Маршстрой М</name>
+        <attributes>
+          <ogrn>1037700236606</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Промтелеком</name>
+        <attributes>
+          <ogrn>1117746098392</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+  </claim>
+  <counterclaim/>
+</claims>

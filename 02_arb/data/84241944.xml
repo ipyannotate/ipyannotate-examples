@@ -1,0 +1,27 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>ХолдингПром</name>
+        <attributes>
+          <inn>7703765849</inn>
+          <ogrn>1127746248849</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Публичное акционерное общество</type>
+        <name>Волгоградэнергосбыт</name>
+        <attributes>
+          <inn>3445071523</inn>
+          <ogrn>1053444090028</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность"/>
+    </subjects>
+  </claim>
+</claims>

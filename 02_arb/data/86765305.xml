@@ -1,0 +1,97 @@
+<claims>
+  <claim>
+    <attack>
+      <ip>
+        <name>
+          <last>Сергеева</last>
+          <first>Николая</first>
+          <middle>Ивановича</middle>
+        </name>
+        <attributes>
+          <inn>212300100548</inn>
+          <ogrn>307213432300041</ogrn>
+          <location>
+            <region>
+              <type>республика</type>
+              <name>Чувашская</name>
+            </region>
+          </location>
+        </attributes>
+      </ip>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>ГРАСК</name>
+        <attributes>
+          <inn>2127316009</inn>
+          <ogrn>1022100975874</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Канаш</name>
+            </settlement>
+            <region>
+              <type>республика</type>
+              <name>Чувашская</name>
+            </region>
+          </location>
+        </attributes>
+      </organisation>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Российские железные дороги</name>
+        <attributes>
+          <inn>7708503727</inn>
+          <ogrn>1037739877295</ogrn>
+        </attributes>
+      </organisation>
+      <unparsed>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Нижний Новгород</name>
+            </settlement>
+          </location>
+        </attributes>
+      </unparsed>
+    </defence>
+    <subjects>
+      <subject type="оспаривании"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Российские железные дороги</name>
+      </organisation>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Сергееву</last>
+          <first>Николаю</first>
+          <middle>Ивановичу</middle>
+        </name>
+      </ip>
+    </defence>
+    <third>
+      <organisation>
+        <name>Управление Федеральной службы государственной регистрации, кадастра и картографии по Чувашской Республике</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Чебоксары</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </third>
+    <subjects>
+      <subject type="признании права собственности"/>
+    </subjects>
+  </counterclaim>
+</claims>

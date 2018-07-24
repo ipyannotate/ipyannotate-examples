@@ -1,0 +1,56 @@
+<claims>
+  <claim>
+    <attack>
+      <ip>
+        <name>
+          <last>Гультяевой</last>
+          <first>Ирины</first>
+          <middle>Леонидовны</middle>
+        </name>
+      </ip>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Сидоровой</last>
+          <first>Марине</first>
+          <middle>Михайловне</middle>
+        </name>
+      </ip>
+    </defence>
+    <third>
+      <organisation>
+        <name>Государственный комитет Псковской области по охране объектов культурного наследия</name>
+      </organisation>
+    </third>
+  </claim>
+  <counterclaim>
+    <attack>
+      <ip>
+        <name>
+          <last>Сидоровой</last>
+          <first>Марины</first>
+          <middle>Михайловны</middle>
+        </name>
+      </ip>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Гультяевой</last>
+          <first>Ирине</first>
+          <middle>Леонидовне</middle>
+        </name>
+      </ip>
+    </defence>
+    <third>
+      <organisation>
+        <name>Государственный комитет Псковской области по охране объектов культурного наследия</name>
+      </organisation>
+    </third>
+    <subjects>
+      <subject type="признании недействительным"/>
+      <subject type="расторжения договора"/>
+    </subjects>
+  </counterclaim>
+</claims>

@@ -1,0 +1,50 @@
+<claims>
+  <claim>
+    <attack>
+      <ip>
+        <name>
+          <last>Карачковой</last>
+          <first>Галины</first>
+          <middle>Степановны</middle>
+        </name>
+        <attributes>
+          <inn>772379530685</inn>
+          <ogrn>311774615200534</ogrn>
+        </attributes>
+      </ip>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Мытищинская теплосеть</name>
+        <attributes>
+          <inn>5029004624</inn>
+          <ogrn>1025003513017</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="признании договору"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Мытищинская теплосеть</name>
+      </organisation>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Карачковой</last>
+          <first>Галине</first>
+          <middle>Степановне</middle>
+        </name>
+      </ip>
+    </defence>
+    <subjects>
+      <penalty type="задолженность"/>
+    </subjects>
+  </counterclaim>
+</claims>

@@ -1,0 +1,20 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>АгросЭко М</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>ООО &quot;Гастроном &quot;Новый&quot;</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">165370.67</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

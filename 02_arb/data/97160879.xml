@@ -1,0 +1,66 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Парнас</name>
+        <attributes>
+          <inn>2905011926</inn>
+          <ogrn>1132904000415</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Главное Управление капитального строительства Волга</name>
+        <attributes>
+          <inn>2317051449</inn>
+          <ogrn>1082367001353</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">451931.9</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Главное Управление капитального строительства Волга</name>
+        <attributes>
+          <inn>2317051449</inn>
+          <ogrn>1082367001353</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Парнас</name>
+        <attributes>
+          <inn>2905011926</inn>
+          <ogrn>1132904000415</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>Главстрой Девелопмент</name>
+      </organisation>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Строительно-монтажное управление-98</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">455398.99</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

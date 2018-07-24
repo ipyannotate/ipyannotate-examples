@@ -1,0 +1,31 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>ТСК Мосэнерго</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>ООО &quot;Управляющая компания &quot;Подмосковье Сервис&quot;</name>
+      </organisation>
+    </defence>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>ООО &quot;Управляющая компания &quot;Подмосковье Сервис&quot;</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>ТСК Мосэнерго</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="обязании"/>
+    </subjects>
+  </counterclaim>
+</claims>

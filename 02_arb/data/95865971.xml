@@ -1,0 +1,38 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Партнер С</name>
+        <attributes>
+          <ogrn>1157746524396</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>государственному казенному учреждению Архангельской области &quot;Дорожное агентство &quot;Архангельскавтодор&quot;</name>
+        <attributes>
+          <ogrn>1022900527902</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Архангельск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">11032723.6</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

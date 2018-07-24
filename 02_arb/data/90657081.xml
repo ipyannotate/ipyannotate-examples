@@ -1,0 +1,35 @@
+<claims>
+  <claim>
+    <attack>
+      <ip>
+        <name>
+          <last>Швец</last>
+          <first>С</first>
+          <middle>А</middle>
+        </name>
+        <attributes>
+          <inn>182200992430</inn>
+          <ogrn>313182827600024</ogrn>
+        </attributes>
+      </ip>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Гладкий</last>
+          <first>А</first>
+          <middle>В</middle>
+        </name>
+        <attributes>
+          <inn>505601206305</inn>
+          <ogrn>305502718600139</ogrn>
+        </attributes>
+      </ip>
+    </defence>
+    <subjects>
+      <penalty type="задолженность">
+        <money currency="RUB">194000</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

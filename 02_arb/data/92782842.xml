@@ -1,0 +1,69 @@
+<claims>
+  <claim>
+    <attack>
+      <ip>
+        <name>
+          <last>Маркина</last>
+          <first>Дмитрия</first>
+          <middle>Анатольевича</middle>
+        </name>
+        <attributes>
+          <inn>331900993671</inn>
+          <ogrn>311333421600013</ogrn>
+        </attributes>
+      </ip>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Кайзер</name>
+        <attributes>
+          <inn>3327128780</inn>
+          <ogrn>1153327003610</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Владимир</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <name>Управление Федеральной службы государственной регистрации, кадастра и картографии по Владимирской области, г. Владимир, Ермошин Николай Владимирович</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Владимир</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </third>
+    <subjects>
+      <subject type="истребовании"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Кайзер</name>
+      </organisation>
+    </attack>
+    <defence>
+      <ip>
+        <name>
+          <last>Маркину</last>
+          <first>Дмитрию</first>
+          <middle>Анатольевичу</middle>
+        </name>
+      </ip>
+    </defence>
+    <subjects>
+      <subject type="обязании заключить договор"/>
+    </subjects>
+  </counterclaim>
+</claims>

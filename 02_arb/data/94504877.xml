@@ -1,0 +1,56 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Стройтехмеханизация</name>
+        <attributes>
+          <inn>5247053251</inn>
+          <ogrn>1155247010049</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Метпроммонтаж</name>
+        <attributes>
+          <inn>6678050070</inn>
+          <ogrn>1146678016253</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">1998071.52</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Метпроммонтаж</name>
+        <attributes>
+          <inn>6678050070</inn>
+          <ogrn>1146678016253</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Стройтехмеханизация</name>
+        <attributes>
+          <inn>5247053251</inn>
+          <ogrn>1155247010049</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">400000</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

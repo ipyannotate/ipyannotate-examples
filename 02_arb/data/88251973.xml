@@ -1,0 +1,93 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Симбирск-Строй-Консалт</name>
+        <attributes>
+          <inn>7328079822</inn>
+          <ogrn>1147328003932</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ульяновск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>государственному учреждению здравоохранения «Ульяновский областной клинический центр специализированных видов медицинской помощи имени заслуженного врача России Е.М. Чучкалова»</name>
+        <attributes>
+          <inn>7325101759</inn>
+          <ogrn>1117325000341</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ульяновск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <name>ОГКУ «Ульяновскоблстройзаказчик»</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ульяновск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </third>
+    <subjects>
+      <subject type="признании недействительным решения"/>
+      <subject type="расторжении"/>
+      <penalty>
+        <money currency="RUB">4410889.12</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <name>государственному учреждению здравоохранения «Ульяновский областной клинический центр специализированных видов медицинской помощи имени заслуженного врача России Е.М. Чучкалова»</name>
+        <attributes>
+          <inn>7325101759</inn>
+          <ogrn>1117325000341</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ульяновск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Симбирск-Строй-Консалт</name>
+        <attributes>
+          <inn>7328079822</inn>
+          <ogrn>1147328003932</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Ульяновск</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">1883137.71</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

@@ -1,0 +1,64 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Сибирский крепеж</name>
+        <attributes>
+          <inn>5504136828</inn>
+          <ogrn>1165543056810</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Завод сборного железобетона № 5 треста железобетон</name>
+        <attributes>
+          <inn>5503217577</inn>
+          <ogrn>1095543040768</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">347374.53</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Завод сборного железобетона № 5 треста железобетон</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Сибирский крепеж</name>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Сибкреп</name>
+        <attributes>
+          <inn>5528212041</inn>
+          <ogrn>1145543002813</ogrn>
+        </attributes>
+      </organisation>
+      <organisation>
+        <name>ООО «Сибирский крепеж» - представитель Перетокин А.С. по дов.</name>
+      </organisation>
+      <organisation>
+        <name>ООО «ЗСЖБ № 5 треста железобетон» - представитель Вахрушев А.И. по дов.</name>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">259529.67</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

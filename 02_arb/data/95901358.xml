@@ -1,0 +1,69 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Амулет</name>
+        <attributes>
+          <inn>5902819887</inn>
+          <ogrn>1045900072240</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Пермь</name>
+            </settlement>
+            <settlement>
+              <type>город</type>
+              <name>Пермь</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Акционерное общество</type>
+        <name>ВСК</name>
+        <attributes>
+          <inn>7710026574</inn>
+          <ogrn>1027700186062</ogrn>
+          <location>
+            <region>
+              <type>край</type>
+              <name>Пермский</name>
+            </region>
+            <settlement>
+              <type>город</type>
+              <name>Пермь</name>
+            </settlement>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <person>
+        <name>
+          <last>Зайцева</last>
+          <first>Анатолия</first>
+          <middle>Владимировича</middle>
+        </name>
+      </person>
+      <person>
+        <name>
+          <last>Супруна</last>
+          <first>Юрия</first>
+          <middle>Станиславовича</middle>
+        </name>
+      </person>
+    </third>
+    <subjects>
+      <penalty type="основной долг">
+        <money currency="RUB">12840.04</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

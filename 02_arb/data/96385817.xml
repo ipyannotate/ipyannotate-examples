@@ -1,0 +1,50 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>Билдекс-Фасад</name>
+        <attributes>
+          <ogrn>1093705000730</ogrn>
+          <location>
+            <region>
+              <type>область</type>
+              <name>Ивановская</name>
+            </region>
+            <settlement>
+              <type>деревня</type>
+              <name>Бакшеево</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>Регионстрой Альянс</name>
+        <attributes>
+          <ogrn>1126732001626</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Москва</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность"/>
+      <penalty type="неустойка"/>
+      <penalty type="судебных расходов"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <subjects>
+      <penalty type="неосновательное обогащение">
+        <money currency="RUB">2820192</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

@@ -1,0 +1,41 @@
+<claims>
+  <claim>
+    <attack>
+      <unparsed>
+        <attributes>
+          <ogrn>1027809244561</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Санкт-Петербурга</name>
+            </settlement>
+            <settlement>
+              <type>город</type>
+              <name>Санкт-Петербург</name>
+            </settlement>
+          </location>
+        </attributes>
+      </unparsed>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Арена</name>
+        <attributes>
+          <ogrn>1037816032385</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Санкт-Петербург</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность"/>
+      <penalty type="пени"/>
+    </subjects>
+  </claim>
+  <counterclaim/>
+</claims>

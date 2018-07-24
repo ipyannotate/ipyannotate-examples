@@ -1,0 +1,21 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>АЛ ТРАНС</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>ПУДОФФ</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">363278</money>
+      </penalty>
+    </subjects>
+  </claim>
+</claims>

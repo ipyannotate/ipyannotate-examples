@@ -1,0 +1,43 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>АПИН</name>
+        <attributes>
+          <inn>2801130630</inn>
+          <ogrn>1082801003031</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>автономной некоммерческой организации «Центр развития малого и среднего предпринимательства»</name>
+        <attributes>
+          <inn>2801205589</inn>
+          <ogrn>1152800000077</ogrn>
+        </attributes>
+      </organisation>
+      <organisation>
+        <name>Палей Наталье Владимировне</name>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>ООО</type>
+        <name>Партнер-строй</name>
+      </organisation>
+      <organisation>
+        <type>ООО</type>
+        <name>Компания Амурпромстрой</name>
+      </organisation>
+      <organisation>
+        <type>ООО</type>
+        <name>Шталь</name>
+      </organisation>
+    </third>
+    <subjects>
+      <subject type="защите деловой репутации"/>
+    </subjects>
+  </claim>
+</claims>

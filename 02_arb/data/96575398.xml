@@ -1,0 +1,43 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <name>АДМИНИСТРАЦИИ КЛИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА</name>
+        <attributes>
+          <inn>5020007701</inn>
+          <ogrn>1035003952004</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>ТЕРРАЛИТ</name>
+        <attributes>
+          <inn>5020032909</inn>
+          <ogrn>1025002593714</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность"/>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>ТЕРРАЛИТ</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <name>АДМИНИСТРАЦИИ КЛИНСКОГО МУНИЦИПАЛЬНОГО РАЙОНА</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <subject type="обязании"/>
+      <penalty type="неустойка"/>
+    </subjects>
+  </counterclaim>
+</claims>

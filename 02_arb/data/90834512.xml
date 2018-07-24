@@ -1,0 +1,56 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>МИДЭКС</name>
+        <attributes>
+          <inn>3120099773</inn>
+          <ogrn>1133120000518</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>Кристалл Снаб</name>
+        <attributes>
+          <inn>5027187806</inn>
+          <ogrn>1125027010404</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="задолженность">
+        <money currency="RUB">16781705.98</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>Кристалл Снаб</name>
+        <attributes>
+          <inn>5027187806</inn>
+          <ogrn>1125027010404</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>МИДЭКС</name>
+        <attributes>
+          <inn>3120099773</inn>
+          <ogrn>1133120000518</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">14246706.15</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

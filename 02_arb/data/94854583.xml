@@ -1,0 +1,55 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Бельский и К</name>
+        <attributes>
+          <inn>5312004730</inn>
+          <ogrn>1145332000329</ogrn>
+          <location>
+            <region>
+              <type>область</type>
+              <name>Новгородская</name>
+            </region>
+            <settlement>
+              <type>деревня</type>
+              <name>Пола</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СтройЭнергоИнвест</name>
+        <attributes>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>Санкт-Петербург</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>СтройЭнергоИнвест</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Общество с ограниченной ответственностью</type>
+        <name>Бельский и К</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="неустойка"/>
+    </subjects>
+  </counterclaim>
+</claims>

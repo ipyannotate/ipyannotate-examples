@@ -1,0 +1,70 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>ТЕРРА ПЛАСТ</name>
+        <attributes>
+          <ogrn>1157746112182</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>МОСКВА</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>ПРОМКОНСЕРВЫ</name>
+        <attributes>
+          <ogrn>1037728000452</ogrn>
+          <location>
+            <settlement>
+              <type>город</type>
+              <name>СМОЛЕНСК</name>
+            </settlement>
+          </location>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty type="долг">
+        <money currency="RUB">719000</money>
+      </penalty>
+      <penalty type="проценты">
+        <money currency="RUB">69871.53</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>Промконсервы</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>Терра Пласт</name>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">1955117</money>
+      </penalty>
+      <penalty>
+        <money currency="RUB">20000</money>
+      </penalty>
+      <penalty>
+        <money currency="RUB">191580.03</money>
+      </penalty>
+      <penalty>
+        <money currency="RUB">81000.01</money>
+      </penalty>
+    </subjects>
+  </counterclaim>
+</claims>

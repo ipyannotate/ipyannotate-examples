@@ -1,0 +1,38 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>ОАО</type>
+        <name>Российские железные дороги</name>
+        <attributes>
+          <inn>7708503727</inn>
+          <ogrn>1037739877295</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ООО</type>
+        <name>ИНТЕЛСТРОЙГРУПП</name>
+        <attributes>
+          <inn>7727607129</inn>
+          <ogrn>5077746320581</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>ООО</type>
+        <name>ИНТЕЛСТРОЙГРУПП</name>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>ОАО</type>
+        <name>Российские железные дороги</name>
+      </organisation>
+    </defence>
+  </counterclaim>
+</claims>

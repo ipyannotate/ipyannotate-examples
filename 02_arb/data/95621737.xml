@@ -1,0 +1,71 @@
+<claims>
+  <claim>
+    <attack>
+      <organisation>
+        <type>Муниципальное унитарное предприятие</type>
+        <name>Берегоукрепление</name>
+        <attributes>
+          <inn>3434000168</inn>
+          <ogrn>1023404242927</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Волгоградский речной порт</name>
+        <attributes>
+          <inn>3445009620</inn>
+          <ogrn>10231403843748</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <third>
+      <organisation>
+        <type>Закрытое акционерное общество</type>
+        <name>Пассажирский речной порт Волгограда</name>
+      </organisation>
+      <organisation>
+        <name>Департамента муниципального имущества Администрации Волгограда</name>
+        <attributes>
+          <inn>3444074200</inn>
+          <ogrn>1023403446362</ogrn>
+        </attributes>
+      </organisation>
+    </third>
+    <subjects>
+      <penalty>
+        <money currency="RUB">4917479.87</money>
+      </penalty>
+    </subjects>
+  </claim>
+  <counterclaim>
+    <attack>
+      <organisation>
+        <type>Открытое акционерное общество</type>
+        <name>Волгоградский речной порт</name>
+        <attributes>
+          <inn>3445009620</inn>
+          <ogrn>1023403843748</ogrn>
+        </attributes>
+      </organisation>
+    </attack>
+    <defence>
+      <organisation>
+        <type>Муниципальное унитарное предприятие</type>
+        <name>Берегоукрепление</name>
+        <attributes>
+          <inn>3434000168</inn>
+          <ogrn>1023404242927</ogrn>
+        </attributes>
+      </organisation>
+    </defence>
+    <subjects>
+      <penalty>
+        <money currency="RUB">2114206.11</money>
+      </penalty>
+      <subject type="разрешения"/>
+      <penalty type="судебных расходов"/>
+    </subjects>
+  </counterclaim>
+</claims>
